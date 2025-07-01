@@ -1,1 +1,1 @@
-Simply download the .html file on your device and run or double click on the file. :)
+Simply download the .html file to your device and run or double-click it. :)
